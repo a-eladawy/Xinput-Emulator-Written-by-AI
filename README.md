@@ -28,6 +28,6 @@ pip install vgamepad
 
 pip install keyboard
 
-5- Paste the code into the python file and run it!
+6- Paste the code into the python file and run it!
 
 **Keywords:** Keyboard to Xbox emulator, keyboard to xbox controller emulator, keyboard xinput emulator, map keyboard keys to xinput xbox controller buttons
