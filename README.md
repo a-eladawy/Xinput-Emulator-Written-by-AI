@@ -20,7 +20,7 @@ You can emulate multiple controllers simply by copying the code to another file 
 
 3- Create a new Python file
 
-4- Open the terminal ( 3rd icon from button left).
+4- Open the terminal ( 3rd icon from bottom left).
 
 5- Install the needed libraries by running the following commands:
 
