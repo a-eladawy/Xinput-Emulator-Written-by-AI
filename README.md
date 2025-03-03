@@ -15,12 +15,19 @@ You can emulate multiple controllers simply by copying the code to another file 
 **How to Run**
 
 1- Download PyCharm community edition.
+
 2- Start a new project.
+
 3- Create a new Python file
+
 4- Open the terminal ( 3rd icon from button left).
+
 5- Install the needed libraries by running the following commands:
+
 pip install vgamepad
+
 pip install keyboard
+
 5- Paste the code into the python file and run it!
 
 **Keywords:** Keyboard to Xbox emulator, keyboard to xbox controller emulator, keyboard xinput emulator, map keyboard keys to xinput xbox controller buttons
