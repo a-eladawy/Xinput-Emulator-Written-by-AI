@@ -2,7 +2,7 @@ The code is fully written by AI. It's a simple loop using 'if statements' to mon
 
 **Mapping**
 
-Changing the mapping is as simple as replacing the keyboard buttons in the code. 
+Changing the mapping is as simple as replacing the keyboard keys in the code. 
 
 **Multi-Binding**
 
